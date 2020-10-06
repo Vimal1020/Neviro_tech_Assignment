@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="Time_period">Choose Time Period</string>
+    <string-array name="time">
+        <item>Choose the Year</item>
+        <item>1 Year</item>
+        <item>2 Year</item>
+        <item>3 Year</item>
+        <item>4 Year</item>
+        <item>5 Year</item>
+    </string-array>
+</resources>
